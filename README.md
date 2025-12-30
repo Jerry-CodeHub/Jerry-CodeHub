@@ -1,14 +1,14 @@
-Hi 👋, 我是[李帅 (阿木) ](https://twitter.com/jerry_shuai_)
+Hi 👋, 我是[阿木](https://x.com/Jerry_Code_Hub)  
 
 ## 关于
 
-🌻 别名「阿木」, 真名「李帅」, 网络 ID「Jerry」    
+🌻 阿木, 网络 ID「Jerry」    
 👨 男, 25+, 现居北京     
 🖥️ 目前从事前端开发工作      
 
 ## 📮📮📮
-🐦 [Twitter](https://twitter.com/jerry_shuai_),     很少活跃    
-⏰ [GitHub](https://github.com/JerryHub-dev),       项目, 知识库等    
+🐦 [Twitter](https://x.com/Jerry_Code_Hub),     很少活跃      
+⏰ [GitHub](https://github.com/Jerry-CodeHub),       项目, 知识库等      
 📧 [邮箱](mailto:lishuai4415@gmail.com)      
 
 <!--
