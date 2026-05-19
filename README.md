@@ -1,27 +1,33 @@
-Hi 👋, 我是 [阿木](https://x.com/Jerry_Code_Hub)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Jerry%20👋&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 
-## 关于
+## About Me
 
-🌻 阿木, 网络 ID「Jerry」 </br>
-👨 男, 25+, 现居北京 </br>
-🖥️ 目前从事全栈开发工作 </br>
+- 🖥️ Full-stack developer focused on TypeScript full-stack and Python AI engineering
+- ⚡ Building web apps with React / Node.js / Koa / Prisma, and cross-platform mini-programs with Taro
+- 🤖 Diving deep into AIGC, passionate about real-world AI applications and engineering practices
+- 📍 Beijing, China
 
-## 📮📮📮
-🐦 [Twitter](https://x.com/Jerry_Code_Hub), 很少活跃; </br>
-⏰ [GitHub](https://github.com/Jerry-CodeHub), 项目, 知识库等; </br>
-📧 [邮箱](mailto:lishuai4415@gmail.com) </br>
+## Tech Stack
 
-<!--
-**JerryHub-dev/JerryHub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,vite,webpack,threejs" />
 
-Here are some ideas to get you started:
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,fastapi,nginx,mysql,postgres,mongodb,redis,prisma" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud & Deploy
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,linux,ubuntu,debian,redhat,githubactions" />
+
+### Testing
+<img src="https://skillicons.dev/icons?i=jest,vitest,postman" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,androidstudio,figma,pnpm,npm,vim,obsidian" />
+
+## Contact
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jerry_Code_Hub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jerry-CodeHub)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lishuai.stack@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
