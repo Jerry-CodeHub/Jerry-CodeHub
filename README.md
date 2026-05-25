@@ -4,7 +4,7 @@
 <h1>Hi, I'm Jerry 👋</h1>
 <ul>
 <li>🖥️ Full-stack developer focused on TypeScript full-stack and Python AI engineering</li>
-<li>⚡ Building web apps with React / Node.js / Koa / Prisma, and cross-platform mini-programs with Taro</li>
+<li>⚡ Building web apps with React / Node.js / Koa / Express.js / NestJS / Prisma, and cross-platform mini-programs with Taro</li>
 <li>🤖 Diving deep into AIGC, passionate about real-world AI applications and engineering practices</li>
 <li>📍 Beijing, China</li>
 </ul>
@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,fastapi,nginx,mysql,postgres,mongodb,redis,prisma" />
 
 ### Cloud & Deploy
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,linux,ubuntu,debian,redhat,githubactions" />
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp,docker,linux,ubuntu,debian,redhat,githubactions" />
 
 ### Testing
 <img src="https://skillicons.dev/icons?i=jest,vitest,postman" />
